@@ -16,7 +16,7 @@ to your code.
 	pico_generate_pio_header(test ${CMAKE_CURRENT_LIST_DIR}/sn74595.pio)
 to the CMakeLists.txt file
 
-## How to build the example (main.cppp):
+## How to build the example (main.cpp):
 
 1. Follow the instructions in [Getting started with Raspberry Pi Pico](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf): 
 "Chapter 8. Creating your own Project" to create a directory for your project.
